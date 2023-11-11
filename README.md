@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/gabriel-alejandro-lucas/**
+- 📫 How to reach me **contacto.lucasgabriel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
