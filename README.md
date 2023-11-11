@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Gabriel Alejandro Lucas</h1>
-<h3 align="center">Soy estudiante de Programación.</h3>
+<h3 align="center">Soy estudiante de Programación y Marketing Digital.</h3>
 
 - 🌱 I’m currently learning **C# nivel 2 y .Net**
 
